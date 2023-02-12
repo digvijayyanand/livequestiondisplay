@@ -20,7 +20,7 @@
 <br>
 <h2>Tech stack used :</h2>
 <span style="font-size:16px;">1. Svelte :</span><p>As the webview of vs code is a single page webview , Svelte framework is used in it. Svelte is better at small webviews because of it's better code optimisation .</p>
-<span style="font-size:16px;">2. Web - Scraping  :</span><p>____________________________________-</p>
+<span style="font-size:16px;">2. Web - Scraping  :</span><p>JS, npm packages: node-fetch, cheerio, cors</p>
 <span style="font-size:16px;">3.  Typescript , HTML , CSS , NodeJS :</span>
 <br>
 <br>
